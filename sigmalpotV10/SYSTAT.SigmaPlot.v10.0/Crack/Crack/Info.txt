@@ -1,0 +1,4 @@
+Installation Notes
+
+1. When asked for, use the serial number "775060002" (without quotes) during the installation process
+2. Use our cracked license file "lservrc" to register
